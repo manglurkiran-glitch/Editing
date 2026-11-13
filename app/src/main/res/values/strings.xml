@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">RechargePay</string>
+    <string name="tagline">Fast &amp; Secure Mobile Recharge</string>
+    
+    <!-- Navigation -->
+    <string name="nav_recharge">Recharge</string>
+    <string name="nav_plans">Browse Plans</string>
+    <string name="nav_history">Transactions</string>
+    <string name="nav_wallet">Wallet</string>
+
+    <!-- Home & Recharge Screen -->
+    <string name="mobile_recharge_title">Mobile Recharge</string>
+    <string name="phone_number_label">Mobile Number</string>
+    <string name="phone_number_hint">Enter 10-digit mobile number</string>
+    <string name="operator_label">Select Operator</string>
+    <string name="circle_label">Circle / Region</string>
+    <string name="prepaid">Prepaid</string>
+    <string name="postpaid">Postpaid</string>
+    <string name="amount_label">Recharge Amount</string>
+    <string name="amount_hint">Enter amount or pick a plan</string>
+    <string name="quick_recharge">Recent Contacts</string>
+    <string name="proceed_to_pay">Proceed to Pay</string>
+    <string name="change_plan">Change</string>
+    <string name="selected_plan">Selected Plan</string>
+    <string name="explore_plans">Browse All Plans</string>
+    <string name="recommended_plans">Recommended For You</string>
+    <string name="cashback_banner_title">Flat ₹50 Instant Cashback</string>
+    <string name="cashback_banner_desc">Use code RECHARGE50 on recharges above ₹299</string>
+
+    <!-- Payment Gateway Screen -->
+    <string name="payment_gateway_title">Secure Payment Gateway</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="total_payable">Total Payable</string>
+    <string name="base_amount">Recharge Amount</string>
+    <string name="platform_fee">Convenience Fee</string>
+    <string name="free">FREE</string>
+    <string name="discount_applied">Promo Discount</string>
+    <string name="have_promo">Have a promo code?</string>
+    <string name="apply">Apply</string>
+    <string name="pci_dss_badge">256-Bit SSL Encrypted &amp; PCI-DSS Compliant</string>
+    <string name="payment_methods">Choose Payment Method</string>
+    <string name="method_cards">Credit / Debit Card</string>
+    <string name="method_wallets">UPI &amp; Digital Wallets</string>
+    <string name="method_netbanking">Net Banking</string>
+    <string name="method_app_wallet">RechargePay Wallet</string>
+    
+    <!-- Card Payment Fields -->
+    <string name="card_number_label">Card Number</string>
+    <string name="card_number_hint">0000 0000 0000 0000</string>
+    <string name="card_expiry_label">Expiry</string>
+    <string name="card_expiry_hint">MM/YY</string>
+    <string name="card_cvv_label">CVV</string>
+    <string name="card_cvv_hint">123</string>
+    <string name="card_name_label">Name on Card</string>
+    <string name="card_name_hint">John Doe</string>
+    <string name="save_card_securely">Save card securely for 1-tap checkout</string>
+    <string name="saved_cards">Saved Cards</string>
+
+    <!-- Digital Wallets -->
+    <string name="upi_id_label">UPI ID / VPA</string>
+    <string name="upi_id_hint">user@upi or user@okhdfcbank</string>
+    <string name="pay_with_gpay">Google Pay</string>
+    <string name="pay_with_applepay">Apple Pay / PhonePe</string>
+    <string name="pay_with_paypal">PayPal / Paytm</string>
+    <string name="pay_with_amazon">Amazon Pay</string>
+
+    <!-- 3D Secure / OTP Simulation -->
+    <string name="secure_verification_title">3D Secure Bank Verification</string>
+    <string name="otp_prompt">Enter One-Time Password (OTP) sent to your registered mobile ending in ****</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify_and_pay">Verify &amp; Confirm Payment</string>
+    <string name="verifying_transaction">Connecting to Bank Payment Gateway…</string>
+    <string name="processing_transaction">Processing Recharge with Operator…</string>
+
+    <!-- Success & Receipt -->
+    <string name="recharge_successful">Recharge Successful!</string>
+    <string name="recharge_failed">Payment Declined</string>
+    <string name="operator_ref_id">Operator Reference ID</string>
+    <string name="transaction_id">Payment Transaction ID</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="date_time">Date &amp; Time</string>
+    <string name="mobile_recharged">Recharged Mobile</string>
+    <string name="download_receipt">Share Receipt</string>
+    <string name="repeat_recharge">Repeat Recharge</string>
+    <string name="back_to_home">Done</string>
+
+    <!-- Wallet Screen -->
+    <string name="wallet_title">RechargePay Wallet</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="add_money">Add Money</string>
+    <string name="cashback_rewards">Rewards &amp; Scratch Cards</string>
+    <string name="enter_add_amount">Enter amount to add</string>
+
+    <!-- Plan Categories -->
+    <string name="cat_recommended">Recommended</string>
+    <string name="cat_daily_data">Daily Data</string>
+    <string name="cat_unlimited">Unlimited 5G</string>
+    <string name="cat_annual">Long Term / Annual</string>
+    <string name="cat_addons">Data Add-ons</string>
+    <string name="cat_roaming">Roaming</string>
+</resources>

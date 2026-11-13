@@ -1,0 +1,6 @@
+{
+  "name": "RechargePay",
+  "description": "Secure mobile phone recharge with instant plans, multiple operators, and integrated payment gateway supporting cards, UPI, digital wallets, and 3D Secure verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
